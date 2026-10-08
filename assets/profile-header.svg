@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
-  <title id="title">Hassnain Ahmed — PHP and Laravel developer</title>
-  <desc id="desc">A dark, futuristic profile banner with a code editor showing a focus on commerce platforms and applied AI.</desc>
+  <title id="title">Hassnain Ahmed — Software Engineer</title>
+  <desc id="desc">A dark profile banner with a code editor showing PHP, Laravel, Python, web applications, APIs, and applied AI.</desc>
   <defs>
     <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0" stop-color="#071321"/>
@@ -41,11 +41,11 @@
       <circle cx="1175" cy="317" r="4" fill="#72c8f4"/>
     </g>
 
-    <text x="70" y="72" fill="#58dcd9" font-family="'Courier New', monospace" font-size="17" font-weight="700" letter-spacing="4">&gt; PROFILE_829 / ONLINE</text>
+    <text x="70" y="72" fill="#58dcd9" font-family="'Courier New', monospace" font-size="17" font-weight="700" letter-spacing="3">&gt; SOFTWARE_ENGINEER / PROFILE_829</text>
     <text x="66" y="177" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-size="81" font-weight="800" letter-spacing="2">HASSNAIN</text>
     <text x="66" y="269" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="87" font-weight="800" letter-spacing="4">AHMED</text>
     <rect x="70" y="291" width="395" height="3" rx="1.5" fill="url(#accent)" opacity=".82"/>
-    <text x="70" y="330" fill="#cbd8ea" font-family="'Courier New', monospace" font-size="21" letter-spacing="1">PHP / LARAVEL  ·  COMMERCE  ·  APPLIED AI</text>
+    <text x="70" y="330" fill="#cbd8ea" font-family="'Courier New', monospace" font-size="21" letter-spacing="1">PHP / LARAVEL  ·  PYTHON  ·  APPLIED AI</text>
 
     <g>
       <rect x="741" y="67" width="474" height="258" rx="14" fill="#050c18" stroke="#4d7199" stroke-opacity=".75" stroke-width="1.5"/>
@@ -56,16 +56,18 @@
       <text x="969" y="94" text-anchor="middle" fill="#849ebc" font-family="'Courier New', monospace" font-size="15">~/hassnain/now.ts</text>
 
       <g font-family="'Courier New', monospace" font-size="19">
-        <text x="765" y="148" fill="#778ca8">01</text>
-        <text x="804" y="148"><tspan fill="#a88fff">const</tspan><tspan fill="#c9e9f5"> focus </tspan><tspan fill="#76c7ff">=</tspan><tspan fill="#c9e9f5"> {</tspan></text>
-        <text x="765" y="181" fill="#778ca8">02</text>
-        <text x="826" y="181"><tspan fill="#8ac2ff">backend</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"Laravel + PHP"</tspan><tspan fill="#c9e9f5">,</tspan></text>
-        <text x="765" y="214" fill="#778ca8">03</text>
-        <text x="826" y="214"><tspan fill="#8ac2ff">systems</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"Commerce"</tspan><tspan fill="#c9e9f5">,</tspan></text>
-        <text x="765" y="247" fill="#778ca8">04</text>
-        <text x="826" y="247"><tspan fill="#8ac2ff">exploring</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"Applied AI"</tspan></text>
-        <text x="765" y="280" fill="#778ca8">05</text>
-        <text x="804" y="280" fill="#c9e9f5">};</text>
+        <text x="765" y="142" fill="#778ca8">01</text>
+        <text x="804" y="142"><tspan fill="#a88fff">const</tspan><tspan fill="#c9e9f5"> engineer </tspan><tspan fill="#76c7ff">=</tspan><tspan fill="#c9e9f5"> {</tspan></text>
+        <text x="765" y="172" fill="#778ca8">02</text>
+        <text x="826" y="172"><tspan fill="#8ac2ff">backend</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"PHP + Python"</tspan><tspan fill="#c9e9f5">,</tspan></text>
+        <text x="765" y="202" fill="#778ca8">03</text>
+        <text x="826" y="202"><tspan fill="#8ac2ff">frameworks</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"Laravel + Flask"</tspan><tspan fill="#c9e9f5">,</tspan></text>
+        <text x="765" y="232" fill="#778ca8">04</text>
+        <text x="826" y="232"><tspan fill="#8ac2ff">building</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"Web apps + APIs"</tspan><tspan fill="#c9e9f5">,</tspan></text>
+        <text x="765" y="262" fill="#778ca8">05</text>
+        <text x="826" y="262"><tspan fill="#8ac2ff">exploring</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"Applied AI"</tspan></text>
+        <text x="765" y="292" fill="#778ca8">06</text>
+        <text x="804" y="292" fill="#c9e9f5">};</text>
       </g>
       <rect x="831" y="299" width="12" height="2" fill="#53dcd9" filter="url(#soft-glow)"/>
       <rect x="831" y="298" width="12" height="3" fill="#53dcd9"/>

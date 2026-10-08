@@ -1,22 +1,21 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Hassnain Ahmed — PHP and Laravel developer focused on commerce platforms and applied AI" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Hassnain Ahmed — software engineer working with Laravel, Python, and applied AI" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://aidetriots.com/"><img src="https://img.shields.io/badge/Portfolio-AI%20Detriots-43D9D1?style=for-the-badge&logo=googlechrome&logoColor=071321" alt="AI Detriots portfolio" /></a>
   <a href="https://www.linkedin.com/in/hassnain-ahmed-95b471362/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-637BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/Hassnain829?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-18283D?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
-<p align="center"><strong>Karachi, Pakistan</strong> &nbsp;·&nbsp; PHP Developer at <strong>Resolute Digitals</strong></p>
+<p align="center"><strong>Software Engineer</strong> &nbsp;·&nbsp; Karachi, Pakistan</p>
 
 ## About me
 
-I build the systems behind commerce products: inventory, checkout, payments, shipping, integrations, and store-level access. At **Resolute Digitals**, I work on a multi-store platform in Laravel. Outside work, I build **[AI Detriots](https://aidetriots.com/)** and experiment with Python, automation, and applied AI.
+I'm a software engineer building web applications, APIs, automation, and practical AI tools. My work spans Laravel backends, Python automation, and user-facing interfaces. I develop a multi-store platform at **Resolute Digitals** and build **[AI Detriots](https://aidetriots.com/)** independently.
 
 ```text
-Current focus  →  reliable commerce workflows + practical AI integrations
-Core stack     →  Laravel · MySQL · Python · APIs
+Current focus  →  web applications + APIs + applied AI
+Core stack     →  PHP · Laravel · Python · MySQL
 ```
 
 ## Featured work
@@ -24,41 +23,45 @@ Core stack     →  Laravel · MySQL · Python · APIs
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hassnain829/SaaS-ECommerce">Multi-store commerce platform ↗</a></h3>
-      <p>Ongoing Laravel platform for merchant catalogs, multi-location inventory, checkout, payments, shipping, and store-scoped permissions.</p>
-      <p><code>Laravel</code> <code>MySQL</code> <code>Stripe Connect</code> <code>FedEx</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://aidetriots.com/">AI Detriots ↗</a></h3>
       <p>My voice-agent business for call handling, lead capture, follow-ups, and a customer dashboard.</p>
-      <p><code>PHP</code> <code>WordPress</code> <code>Vapi</code> <code>n8n</code></p>
+      <p><img src="https://skillicons.dev/icons?i=php,wordpress,mysql&amp;theme=dark" height="38" alt="PHP, WordPress, MySQL" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hassnain829/G-Map-Scrapper-With-Linkedin-Enrichements-">Business lead discovery ↗</a></h3>
+      <p>A local research pipeline that collects business listings, enriches contacts, tracks runs and duplicates, and exports results.</p>
+      <p><img src="https://skillicons.dev/icons?i=py,flask,sqlite&amp;theme=dark" height="38" alt="Python, Flask, SQLite" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hassnain829/G-Map-Scrapper-With-Linkedin-Enrichements-">Business lead discovery ↗</a></h3>
-      <p>A local research pipeline that collects business listings, enriches contacts, tracks runs and duplicates, and exports results.</p>
-      <p><code>Python</code> <code>Flask</code> <code>Playwright</code> <code>SQLite</code></p>
+      <h3><a href="https://github.com/Hassnain829/SaaS-ECommerce">Multi-store SaaS platform ↗</a></h3>
+      <p>Ongoing Laravel platform for merchant catalogs, multi-location inventory, checkout, payments, shipping, and store-scoped permissions.</p>
+      <p><img src="https://skillicons.dev/icons?i=php,laravel,mysql&amp;theme=dark" height="38" alt="PHP, Laravel, MySQL" /></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Hassnain829/ML-Based-ChatBot">ML-based business chatbot ↗</a></h3>
       <p>Intent classifier trained on 1,364 example questions across 37 intents, with a Flask interface and prepared business responses.</p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>NLTK</code> <code>TF-IDF</code></p>
+      <p><img src="https://skillicons.dev/icons?i=py,flask,sklearn&amp;theme=dark" height="38" alt="Python, Flask, scikit-learn" /></p>
     </td>
   </tr>
 </table>
 
 **Also exploring:** [Crypto trading research and paper trading](https://github.com/Hassnain829/Crypto-Trading-Agent) · [Search Fan-Out](https://github.com/Hassnain829/SEO_FAN_OUT_RANK) · [JamPsych LMS interface prototype](https://github.com/Hassnain829/JamPsych)
 
-## Tools I use
+## Technology
 
-| Area | Stack |
-| :--- | :--- |
-| **Backend & data** | PHP, Laravel, Eloquent, MySQL, REST APIs, PHPUnit |
-| **Interfaces** | Blade, JavaScript, Tailwind CSS, Alpine.js, HTML/CSS |
-| **Integrations** | Stripe Connect, FedEx APIs, WooCommerce, OAuth, webhooks, Vapi, n8n |
-| **Python & AI** | Python, Flask, FastAPI, Playwright, Pandas, scikit-learn, NLTK, transformer inference |
-| **Delivery** | Git, GitHub Actions, Composer, Vite, pytest |
+<p align="center"><strong>Backend, data &amp; AI</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,py,flask,fastapi,mysql,sklearn,pytorch&amp;theme=dark" alt="PHP, Laravel, Python, Flask, FastAPI, MySQL, scikit-learn, and PyTorch" />
+</p>
+
+<p align="center"><strong>Interfaces &amp; tooling</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,alpinejs,git,githubactions,wordpress&amp;theme=dark" alt="JavaScript, HTML, CSS, Tailwind CSS, Alpine.js, Git, GitHub Actions, and WordPress" />
+</p>
+
+<p align="center"><sub>Also working with Playwright, scikit-learn, NLTK, Stripe Connect, FedEx APIs, Vapi, and n8n.</sub></p>
 
 ## Background
 
@@ -79,4 +82,4 @@ Core stack     →  Laravel · MySQL · Python · APIs
 
 ---
 
-<p align="center">Building something with Laravel, commerce, or applied AI? <a href="https://www.linkedin.com/in/hassnain-ahmed-95b471362/">Let's connect.</a></p>
+<p align="center">Building web apps, APIs, or AI tools? <a href="https://www.linkedin.com/in/hassnain-ahmed-95b471362/">Let's connect.</a></p>
