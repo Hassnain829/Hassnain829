@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-header-still.png" />
-    <img src="./assets/profile-header.gif" alt="Animated 3D Python and machine learning banner for Hassnain Ahmed, Software Engineer" width="100%" />
+    <img src="./assets/profile-header.gif" alt="Hassnain Ahmed profile banner with an animated Python code editor" width="100%" />
   </picture>
 </p>
 
