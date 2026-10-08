@@ -1,101 +1,82 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Hassnain Ahmed — PHP and Laravel developer focused on commerce platforms and applied AI" width="100%" />
+</p>
 
-# Hassnain Ahmed
+<p align="center">
+  <a href="https://aidetriots.com/"><img src="https://img.shields.io/badge/Portfolio-AI%20Detriots-43D9D1?style=for-the-badge&logo=googlechrome&logoColor=071321" alt="AI Detriots portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hassnain-ahmed-95b471362/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-637BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Hassnain829?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-18283D?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+</p>
 
-### PHP / Laravel Developer · Commerce Platforms · Python & Applied AI
+<p align="center"><strong>Karachi, Pakistan</strong> &nbsp;·&nbsp; PHP Developer at <strong>Resolute Digitals</strong></p>
 
-I build software for the parts of a business that have to work: checkout, inventory, integrations, permissions, and the workflows around them.
+## About me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-AI%20Detriots-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aidetriots.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassnain-ahmed-95b471362/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwardsmith8290@gmail.com)
+I build the systems behind commerce products: inventory, checkout, payments, shipping, integrations, and store-level access. At **Resolute Digitals**, I work on a multi-store platform in Laravel. Outside work, I build **[AI Detriots](https://aidetriots.com/)** and experiment with Python, automation, and applied AI.
 
-Karachi, Pakistan · Open to PHP/Laravel development opportunities
+```text
+Current focus  →  reliable commerce workflows + practical AI integrations
+Core stack     →  Laravel · MySQL · Python · APIs
+```
 
-</div>
+## Featured work
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hassnain829/SaaS-ECommerce">Multi-store commerce platform ↗</a></h3>
+      <p>Ongoing Laravel platform for merchant catalogs, multi-location inventory, checkout, payments, shipping, and store-scoped permissions.</p>
+      <p><code>Laravel</code> <code>MySQL</code> <code>Stripe Connect</code> <code>FedEx</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://aidetriots.com/">AI Detriots ↗</a></h3>
+      <p>My voice-agent business for call handling, lead capture, follow-ups, and a customer dashboard.</p>
+      <p><code>PHP</code> <code>WordPress</code> <code>Vapi</code> <code>n8n</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hassnain829/G-Map-Scrapper-With-Linkedin-Enrichements-">Business lead discovery ↗</a></h3>
+      <p>A local research pipeline that collects business listings, enriches contacts, tracks runs and duplicates, and exports results.</p>
+      <p><code>Python</code> <code>Flask</code> <code>Playwright</code> <code>SQLite</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hassnain829/ML-Based-ChatBot">ML-based business chatbot ↗</a></h3>
+      <p>Intent classifier trained on 1,364 example questions across 37 intents, with a Flask interface and prepared business responses.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>NLTK</code> <code>TF-IDF</code></p>
+    </td>
+  </tr>
+</table>
 
-## A little about me
+**Also exploring:** [Crypto trading research and paper trading](https://github.com/Hassnain829/Crypto-Trading-Agent) · [Search Fan-Out](https://github.com/Hassnain829/SEO_FAN_OUT_RANK) · [JamPsych LMS interface prototype](https://github.com/Hassnain829/JamPsych)
 
-I'm a PHP/Laravel developer at **Resolute Digitals**, where I work on a multi-store commerce platform. That means building the less visible pieces as well as the screens: stock that stays accurate through checkout, payments that are created once, shipping tied to a merchant's own account, and access controls that hold up across stores and team members.
+## Tools I use
 
-Outside my day job, I built **[AI Detriots](https://aidetriots.com/)**, a voice-agent service for businesses. I also work in Python on lead research, NLP, chatbots, and trading-system experiments. My bachelor's in Artificial Intelligence gives me a foundation for the ML side, but I care most about getting useful applications into people's hands.
-
-## What I work with
-
-| Focus | Tools and experience |
-| --- | --- |
-| **Backend & data** | PHP 8, Laravel 12, Eloquent, REST APIs, MySQL, SQL, database transactions, authentication and authorization |
-| **Frontend** | Blade, JavaScript, HTML5, CSS3, Tailwind CSS, Alpine.js, responsive interfaces |
-| **Commerce & integrations** | Stripe Connect, FedEx APIs, WordPress, WooCommerce, OAuth 2.0, webhooks, Vapi, n8n |
-| **Python & automation** | Python, Flask, FastAPI, Playwright, Beautiful Soup, Pandas, NumPy, SQLite, SQLAlchemy |
-| **AI & ML** | scikit-learn, NLTK, TF-IDF, Naive Bayes, logistic regression, Hugging Face Transformers, PyTorch inference, Gemini and Groq APIs |
-| **Testing & delivery** | PHPUnit, pytest, Git, GitHub Actions, Composer, Vite, cPanel |
-
-## Selected work
-
-### [Multi-store commerce platform](https://github.com/Hassnain829/SaaS-ECommerce) · Resolute Digitals
-
-**Laravel · MySQL · Blade · Stripe Connect · FedEx · PHPUnit**
-
-Working on a merchant platform for catalogs, variants, multi-location inventory, orders, and checkout. My work includes Stripe Connect payment flows and inventory reservations, FedEx rates/labels/tracking through merchant-owned carrier accounts, a WordPress storefront connector, WooCommerce CSV imports, and store-scoped team permissions. I added PHPUnit coverage for payment and access rules and GitHub Actions for testing and deployment checks. [Platform](https://ecom.resolutedigitalspk.com/) · [Code](https://github.com/Hassnain829/SaaS-ECommerce)
-
-### [AI Detriots](https://aidetriots.com/) · personal business
-
-**PHP · WordPress · WooCommerce · MySQL · Vapi · n8n**
-
-Built a voice-agent service with business onboarding, agent assignment, phone-number routing, and a customer dashboard. Call events feed records, transcripts, recordings, and lead data; subscription purchases control plan allowances and account limits. The application code is private, but the [website is public](https://aidetriots.com/).
-
-### [Business lead discovery and enrichment](https://github.com/Hassnain829/G-Map-Scrapper-With-Linkedin-Enrichements-)
-
-**Python · Flask · Playwright · Beautiful Soup · SQLite**
-
-A local research pipeline that collects business listings, looks for matching owner profiles, enriches contact information, and exports CSVs. The dashboard supports ordered search queues, run history, start/stop controls, and duplicate tracking so repeat runs do not reprocess the same businesses.
-
-### [ML-based business chatbot](https://github.com/Hassnain829/ML-Based-ChatBot)
-
-**Python · Flask · scikit-learn · NLTK**
-
-An intent-classification chatbot using NLTK preprocessing and a TF-IDF/logistic-regression pipeline. Its dataset contains 1,364 example questions across 37 intents; a training script rebuilds the model and supports cross-validation. Answers are selected from prepared business responses rather than generated by an LLM.
-
-### [AI sales representative prototype](https://github.com/Hassnain829/Ai_Sales_Representative)
-
-**Python · Flask · Hugging Face Transformers · PyTorch**
-
-An experimental sales-assistant codebase exploring zero-shot intent classification and response generation. This is a prototype, not a production sales system.
-
-### [Crypto trading research agent](https://github.com/Hassnain829/Crypto-Trading-Agent)
-
-**Python · TradingView/CDP · NiceGUI · SQLite · Pandas · pytest**
-
-A research and paper-trading environment for reading TradingView signals, simulating trades with fees, viewing account state, and comparing strategy experiments. It includes position sizing, exposure limits, and a kill switch. This is research/demo work, **not** a claim of profitable or live trading.
-
-### [JamPsych LMS interface prototype](https://github.com/Hassnain829/JamPsych)
-
-**HTML · CSS · JavaScript**
-
-Responsive Admin, Uploader, and Student interfaces for a proposed learning platform, including course, quiz, certificate, search, filter, and reporting screens. It is a browser-side UI prototype with sample data, not a finished Laravel LMS.
-
-## More projects
-
-- [Search Fan-Out](https://github.com/Hassnain829/SEO_FAN_OUT_RANK) — Flask research interface showing Gemini answers alongside grounded search queries and sources.
-- [Laravel Task Management System](https://github.com/Hassnain829/TaskManagementSystem-Laravel) — authenticated tasks and categories, search, due dates, status filters, ownership checks, and restore flows.
-- [Sentiment Analysis with Naive Bayes](https://github.com/Hassnain829/Sentiment-Analysis-Using-Naive-Bayes-) — text-classification experiment with bag-of-words features and a Flask interface.
-- [Groq chatbot](https://github.com/Hassnain829/chatbot-project) — Flask chat interface with session history, model switching, and JSON endpoints.
-- [MetaTrader 5 trading agent](https://github.com/Hassnain829/Trading-Agent-) — separate scalping/intraday strategies, shadow-trade tracking, and risk checks in a research/demo setting.
+| Area | Stack |
+| :--- | :--- |
+| **Backend & data** | PHP, Laravel, Eloquent, MySQL, REST APIs, PHPUnit |
+| **Interfaces** | Blade, JavaScript, Tailwind CSS, Alpine.js, HTML/CSS |
+| **Integrations** | Stripe Connect, FedEx APIs, WooCommerce, OAuth, webhooks, Vapi, n8n |
+| **Python & AI** | Python, Flask, FastAPI, Playwright, Pandas, scikit-learn, NLTK, transformer inference |
+| **Delivery** | Git, GitHub Actions, Composer, Vite, pytest |
 
 ## Background
 
-- **PHP Developer**, Resolute Digitals — October 2025–present
-- **Developer**, AlphaByte Solutions — April 2023–October 2025
-- **Bachelor's in Artificial Intelligence**, Islamia University
-- **Diploma in Software Engineering**, Aptech Institute of Learning
+**PHP Developer** at Resolute Digitals · **Developer** at AlphaByte Solutions<br />
+**Bachelor's in Artificial Intelligence** at Islamia University · **Diploma in Software Engineering** at Aptech
+
+## Contribution trail
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hassnain829/Hassnain829/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hassnain829/Hassnain829/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Hassnain829/Hassnain829/output/github-snake.svg" alt="Snake animation of Hassnain's GitHub contributions" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><sub>Contribution animation powered by <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub></p>
 
 ---
 
-<div align="center">
-
-Interested in Laravel, commerce systems, APIs, or practical AI integrations? [Let's connect on LinkedIn](https://www.linkedin.com/in/hassnain-ahmed-95b471362/) or [send me an email](mailto:edwardsmith8290@gmail.com).
-
-</div>
+<p align="center">Building something with Laravel, commerce, or applied AI? <a href="https://www.linkedin.com/in/hassnain-ahmed-95b471362/">Let's connect.</a></p>

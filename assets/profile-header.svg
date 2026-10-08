@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
+  <title id="title">Hassnain Ahmed — PHP and Laravel developer</title>
+  <desc id="desc">A dark, futuristic profile banner with a code editor showing a focus on commerce platforms and applied AI.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#071321"/>
+      <stop offset="0.55" stop-color="#0b1528"/>
+      <stop offset="1" stop-color="#11112c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#49e2db"/>
+      <stop offset="0.55" stop-color="#6aafff"/>
+      <stop offset="1" stop-color="#ac83ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#4164db" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#4164db" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#83a4ce" stroke-opacity=".065"/>
+    </pattern>
+    <filter id="soft-glow" x="-50%" y="-100%" width="200%" height="300%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <clipPath id="rounded"><rect width="1280" height="390" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1280" height="390" fill="url(#background)"/>
+    <rect width="1280" height="390" fill="url(#grid)"/>
+    <ellipse cx="1070" cy="55" rx="410" ry="310" fill="url(#glow)"/>
+    <path d="M0 389H1280" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M17 74V17H74M1206 17h57v57M17 316v57h57M1206 373h57v-57" fill="none" stroke="#77dcd9" stroke-opacity=".42" stroke-width="2"/>
+
+    <g opacity=".34" fill="none" stroke="#72c8f4" stroke-width="1.5">
+      <path d="M0 102h31l20 20h78M0 246h30l23-23h75"/>
+      <path d="M1168 55h46l22-22h44M1175 317h31l24 24h50"/>
+      <circle cx="130" cy="122" r="4" fill="#72c8f4"/>
+      <circle cx="129" cy="223" r="4" fill="#72c8f4"/>
+      <circle cx="1168" cy="55" r="4" fill="#72c8f4"/>
+      <circle cx="1175" cy="317" r="4" fill="#72c8f4"/>
+    </g>
+
+    <text x="70" y="72" fill="#58dcd9" font-family="'Courier New', monospace" font-size="17" font-weight="700" letter-spacing="4">&gt; PROFILE_829 / ONLINE</text>
+    <text x="66" y="177" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-size="81" font-weight="800" letter-spacing="2">HASSNAIN</text>
+    <text x="66" y="269" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="87" font-weight="800" letter-spacing="4">AHMED</text>
+    <rect x="70" y="291" width="395" height="3" rx="1.5" fill="url(#accent)" opacity=".82"/>
+    <text x="70" y="330" fill="#cbd8ea" font-family="'Courier New', monospace" font-size="21" letter-spacing="1">PHP / LARAVEL  ·  COMMERCE  ·  APPLIED AI</text>
+
+    <g>
+      <rect x="741" y="67" width="474" height="258" rx="14" fill="#050c18" stroke="#4d7199" stroke-opacity=".75" stroke-width="1.5"/>
+      <path d="M741 81a14 14 0 0 1 14-14h446a14 14 0 0 1 14 14v29H741Z" fill="#142239"/>
+      <circle cx="767" cy="88" r="5" fill="#ff6e79"/>
+      <circle cx="785" cy="88" r="5" fill="#ffc46a"/>
+      <circle cx="803" cy="88" r="5" fill="#62d7aa"/>
+      <text x="969" y="94" text-anchor="middle" fill="#849ebc" font-family="'Courier New', monospace" font-size="15">~/hassnain/now.ts</text>
+
+      <g font-family="'Courier New', monospace" font-size="19">
+        <text x="765" y="148" fill="#778ca8">01</text>
+        <text x="804" y="148"><tspan fill="#a88fff">const</tspan><tspan fill="#c9e9f5"> focus </tspan><tspan fill="#76c7ff">=</tspan><tspan fill="#c9e9f5"> {</tspan></text>
+        <text x="765" y="181" fill="#778ca8">02</text>
+        <text x="826" y="181"><tspan fill="#8ac2ff">backend</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"Laravel + PHP"</tspan><tspan fill="#c9e9f5">,</tspan></text>
+        <text x="765" y="214" fill="#778ca8">03</text>
+        <text x="826" y="214"><tspan fill="#8ac2ff">systems</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"Commerce"</tspan><tspan fill="#c9e9f5">,</tspan></text>
+        <text x="765" y="247" fill="#778ca8">04</text>
+        <text x="826" y="247"><tspan fill="#8ac2ff">exploring</tspan><tspan fill="#c9e9f5">: </tspan><tspan fill="#80e1c0">"Applied AI"</tspan></text>
+        <text x="765" y="280" fill="#778ca8">05</text>
+        <text x="804" y="280" fill="#c9e9f5">};</text>
+      </g>
+      <rect x="831" y="299" width="12" height="2" fill="#53dcd9" filter="url(#soft-glow)"/>
+      <rect x="831" y="298" width="12" height="3" fill="#53dcd9"/>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="1278.5" height="388.5" rx="23.25" fill="none" stroke="#6c8bba" stroke-opacity=".42" stroke-width="1.5"/>
+</svg>
