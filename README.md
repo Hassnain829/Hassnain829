@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-header-still.png" />
-    <img src="./assets/profile-header.gif" alt="Hassnain Ahmed profile banner with an animated Python code editor" width="100%" />
-  </picture>
+  <img src="./assets/profile-header-2026-10-08.gif" alt="Hassnain Ahmed animated Python editor banner" width="100%" />
 </p>
 
 <p align="center">
