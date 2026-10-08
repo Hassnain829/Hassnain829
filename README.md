@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Hassnain Ahmed — software engineer working with Laravel, Python, and applied AI" width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-header-still.png" />
+    <img src="./assets/profile-header.gif" alt="Animated 3D Python and machine learning banner for Hassnain Ahmed, Software Engineer" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
