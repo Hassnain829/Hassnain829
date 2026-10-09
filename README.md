@@ -7,7 +7,7 @@
   <a href="https://github.com/Hassnain829?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-18283D?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
-<p align="center"><strong>Software Engineer</strong> &nbsp;·&nbsp; / Developer</p>
+<p align="center"><strong>Software Engineer</strong> &nbsp;·&nbsp;  Developer</p>
 
 ## About me
 
